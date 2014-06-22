@@ -1,6 +1,7 @@
-# One Month Rails
+# First Rails Application
 
-This is the pinterest like sample application using info from
+Learning from
 [*One Month Rails*](http://onemonthrails.com)
+to build a pinterest like sample application
 
-by [LT]
+by LT
