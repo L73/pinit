@@ -1,7 +1,18 @@
-$body-bg: #1abc9c;
-$navbar-inverse-bg: #ecf0f1;
-$navbar-inverse-link-color: #2c3e50;
-$brand-primary: #2c3e50;;
-$jumbotron-bg: #ecf0f1;
-$jumbotron-color: #2c3e50;
+@import url(http://fonts.googleapis.com/css?family=Arimo);
+
+$body-bg: 						#1abc9c;
+$font-family-sans-serif:		'Arimo', 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+$navbar-default-bg: 			#ecf0f1;
+$navbar-default-link-color: 	#2c3e50;
+$brand-primary: 				#2c3e50;
+$jumbotron-bg: 					#ecf0f1;
+$jumbotron-color: 				#2c3e50;
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
